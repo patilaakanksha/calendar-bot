@@ -1,0 +1,4 @@
+python_env/
+v_env/
+client_secret.json
+credentials.json

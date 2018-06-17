@@ -1,0 +1,8 @@
+Flask
+google_api_python_client
+shortuuid
+google-cloud-datastore
+requests-toolbelt
+python-dateutil
+google-api-python-client
+oauth2client
